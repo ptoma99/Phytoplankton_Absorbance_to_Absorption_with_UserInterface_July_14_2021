@@ -1,0 +1,11 @@
+1_For_Bedford_Basin_HPLC_files_S_SRC_BBMP_RAW-SOURCE-DATA
+"S:\SRC\BBMP\RAW SOURCE DATA"
+
+2_For_Bedford_Basin_QAT_and_ODF_files_S_SRC_BBMP_COMPASS
+"S:\SRC\BBMP\COMPASS"
+
+3_For_most_HPLC_QAT_and_ODF_files_S_SRC
+"S:\SRC"
+
+4_For_ctd_ODF_that_cannot_be_found_ARC_Archive_ctd
+"S:\ARC\Archive\ctd"

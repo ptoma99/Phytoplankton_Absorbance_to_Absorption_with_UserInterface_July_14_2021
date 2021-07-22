@@ -1,0 +1,2 @@
+# Phytoplankton_Absorbance_to_Absorption_with_UserInterface_July_14_2021
+The R script reads the Particulate(123456.txt) and the Detritus(123456p.txt) absorbance raw data files from spectrophotometer analysis of water samples from Niskin bottles on a CTD rosette, reads and matches metadata,  converts to absorption, performs QC and  writes a final format that includes metadata and QC flags with  all sample ID’s in one csv file for Particulate, one for Detritus and one for Phytoplankton, per mission.

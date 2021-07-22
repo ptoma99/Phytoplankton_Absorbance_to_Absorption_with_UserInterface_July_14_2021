@@ -1,0 +1,13 @@
+ODF_HEADER,
+  FILE_SPECIFICATION='data'
+CRUISE_HEADER,
+  COUNTRY_INSTITUTE_CODE=data,
+  CRUISE_NUMBER='data',
+  ORGANIZATION='data',
+  CHIEF_SCIENTIST='data',
+  START_DATE='date 00:00:00.00',
+  END_DATE='date 00:00:00.00',
+  PLATFORM='Ship_name',
+  CRUISE_NAME='data',
+  CRUISE_DESCRIPTION='data'
+other data
